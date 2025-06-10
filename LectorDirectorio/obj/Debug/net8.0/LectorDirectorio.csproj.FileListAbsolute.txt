@@ -12,3 +12,4 @@ C:\Users\Alumno\Desktop\tp9-tl\TL1-TP9-2025-BarcalaM\LectorDirectorio\obj\Debug\
 C:\Users\Alumno\Desktop\tp9-tl\TL1-TP9-2025-BarcalaM\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.pdb
 C:\Users\Alumno\Desktop\tp9-tl\TL1-TP9-2025-BarcalaM\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.genruntimeconfig.cache
 C:\Users\Alumno\Desktop\tp9-tl\TL1-TP9-2025-BarcalaM\LectorDirectorio\obj\Debug\net8.0\ref\LectorDirectorio.dll
+C:\Users\Alumno\Desktop\tp9-tl\TL1-TP9-2025-BarcalaM\LectorDirectorio\obj\Debug\net8.0\LectorDirectorio.sourcelink.json
